@@ -1,39 +1,39 @@
-name: Tane Welham
-favicon: null
-layout_spectrum: 0.00124
-typography_spectrum: 0.32425
 title: Tane Welham Nuke Compositor
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0
+  brandStrength: 0
+  rhythmicContrast: 0
   brandColors:
     - '#303030'
     - '#0E0E0E'
     - '#FAFAFA'
-  brandStrength: 0
   lightness: 0.1117085
-  saturation: 0
-  rhythmicContrast: 0
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Tane Welham
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.32425
+layout_spectrum: 0.5095579
